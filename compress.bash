@@ -17,11 +17,11 @@ name="AOSP"
 
 # Manifest link. https:// is mandatory.
 # Example: https://github.com/cyanogenmod/android.git
-manifest="https://android.googlesource.com/platform/manifest.git"
+manifest="https://github.com/CyanogenMod/android.git"
 
 # Manifest branch.
 # Example: cm-14.0, nougat, Lineage-15.1
-branch="android-9.0.0_r47"
+branch="cm-12.1"
 
 ### Finally, execute the stuff. ###
 # Do Not Touch The Following Line
